@@ -36,12 +36,19 @@ def turn(board)
 end
 
 # Define your play method below
+<<<<<<< HEAD
 
+=======
+>>>>>>> c1e152d1ca095f13a08b072315e3aeaae0f0d51a
 def play(board)
   turns = 0
   while (turns < 9)
     turn(board)
     turns += 1
   end
+<<<<<<< HEAD
 end
 
+=======
+end
+>>>>>>> c1e152d1ca095f13a08b072315e3aeaae0f0d51a
